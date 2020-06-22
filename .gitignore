@@ -66,4 +66,9 @@ bower_components/
 TODO
 test.html
 ad.js
-/.cache/
+cache/**
+composer.lock
+vendor/**
+tags
+.phpintel/**
+
